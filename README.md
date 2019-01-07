@@ -1,3 +1,1 @@
 # SCREENSHOTS
-
-How to use
