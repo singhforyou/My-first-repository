@@ -1,3 +1,3 @@
-# My-first-repository
+# SCREENSHOTS
 
 How to use
